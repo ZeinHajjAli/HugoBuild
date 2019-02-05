@@ -2,7 +2,7 @@
 title: 'Only the Best From NYC'
 date: 2017-03-03
 draft: false
-featuredImg: ""
+featuredImg: "/NYC4.jpg"
 tags: 
   - photos
   - photography
