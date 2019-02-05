@@ -20,3 +20,5 @@ git push origin master
 
 :: Go back to root folder
 cd ..
+
+pause
