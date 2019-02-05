@@ -1,6 +1,6 @@
 ---
 title: "SITE #2: Fixed the Domain Issue"
-date: 2019-02-06
+date: 2019-02-05
 draft: false
 featuredImg: ""
 tags:
