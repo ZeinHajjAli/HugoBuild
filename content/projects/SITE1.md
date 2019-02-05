@@ -1,10 +1,10 @@
 ---
-title: "SITE #1: ZeinHajjAli.com/ZeinHajjAli.github.io personal/resume/portfolio website"
+title: "SITE #1: Personal/Resume/Portfolio Website"
 date: 2019-02-05
-draft: true
+draft: false
 featuredImg: ""
 tags:
-- Website
+  - Website
   - SITE
   - Site
   - WebDev
