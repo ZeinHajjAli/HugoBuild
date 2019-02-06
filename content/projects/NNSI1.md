@@ -11,6 +11,8 @@ tags:
   - systems
 ---
 
+<DIV align="justify">
+
 ## Introduction
 
 Starting September of 2018, I joined a project as my capstone engineering project at Carleton University. The project was led by Professor Donald Bailey and included 5 other team members as well as myself. The Northern Nomad Tiny House's goals included independence from the internet, net-zero emissions, and net-zero water usage. The project was to integrate and develop the system used in the Northern Nomad Tiny House that was built on campus. Our main task was to connect all the smart devices together and have a centralized way to read and modify them.
@@ -29,3 +31,4 @@ We decided to hardwire the sensors into our own interface device. We did some re
 
 Unfortunately, this was the first update/post about this project, so some details are left out, but a Github page will be coming soon. I will be trying to update more often so that I can cover all relevant details.
 
+</DIV>
