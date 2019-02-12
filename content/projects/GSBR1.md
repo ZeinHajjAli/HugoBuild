@@ -161,13 +161,13 @@ Figure 1: Self-balancing problem [^4]
 
 ## References
 
-[^1] _Amazon.co.uk_, 2019. [Online]. Available: https://www.amazon.co.uk/MMA7361-Accelerometer-Sensor-Acceleration-Inclination/dp/B008P6AM7W. [Accessed: 01- Feb- 2019].
+[^1]: _Amazon.co.uk_, 2019. [Online]. Available: https://www.amazon.co.uk/MMA7361-Accelerometer-Sensor-Acceleration-Inclination/dp/B008P6AM7W. [Accessed: 01- Feb- 2019].
 
-[^2] &quot;Gyro Sensor&quot;, _indiamart.com_, 2019. [Online]. Available: https://www.indiamart.com/proddetail/gyro-sensor-12728771173.html. [Accessed: 01- Feb- 2019].
+[^2]: &quot;Gyro Sensor&quot;, _indiamart.com_, 2019. [Online]. Available: https://www.indiamart.com/proddetail/gyro-sensor-12728771173.html. [Accessed: 01- Feb- 2019].
 
-[^3] L. Contr, &quot;L9110S H-bridge Dual DC Stepper Motor Driver Contr | Arduino Robots &amp; electronics component in kabul afghanistan&quot;, _Nooraziz.com_, 2019. [Online]. Available: http://www.nooraziz.com/product/l9110s-h-bridge-dual-dc-stepper-motor-driver-contr/. [Accessed: 01- Feb- 2019].
+[^3]: L. Contr, &quot;L9110S H-bridge Dual DC Stepper Motor Driver Contr | Arduino Robots &amp; electronics component in kabul afghanistan&quot;, _Nooraziz.com_, 2019. [Online]. Available: http://www.nooraziz.com/product/l9110s-h-bridge-dual-dc-stepper-motor-driver-contr/. [Accessed: 01- Feb- 2019].
 
-[^4] &quot;S15: Self-Balancing Robot - Embedded Systems Learning Academy&quot;, _Socialledge.com_, 2019. [Online]. Available: http://socialledge.com/sjsu/index.php/S15:\_Self-Balancing\_Robot. [Accessed: 01- Feb- 2019].
+[^4]: &quot;S15: Self-Balancing Robot - Embedded Systems Learning Academy&quot;, _Socialledge.com_, 2019. [Online]. Available: http://socialledge.com/sjsu/index.php/S15:\_Self-Balancing\_Robot. [Accessed: 01- Feb- 2019].
 
 *I do not own the Carleton University trademark or logo.*
 
