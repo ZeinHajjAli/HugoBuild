@@ -52,3 +52,8 @@ The final project report is currently being finalized, and will be submitted by 
 <DIV align="justify">
 I take great pride in the accomplishments of the team for this project. The components we were given to work with were subpar, and some were damaged, but we made use of them in the best possible way. My pride is also compounded by the fact that a week before the demo, we gave a presentation on the project, and we heard the professor say to her teaching assistant that she didn’t believe we could get it to work with the components we had. We used this doubt as a motivating factor and worked hard over the next week to achieve the goals of the project, and deliver an impressive demo. I took on the role of a leader for this project, but not everyone needed to be told what to do. I enjoyed my responsibilities throughout the semester, and learned a lot about the optimal way of motivating different people in different ways. Overall, I rank this project as a success.
 </DIV>
+
+---
+
+> ## Great Success!
+-Borat

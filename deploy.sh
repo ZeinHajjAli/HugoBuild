@@ -3,10 +3,14 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -t hermit # if using a theme, replace with `hugo -t <YOURTHEME>`
+# If using a theme, replace with `hugo -t <YOURTHEME>`
+hugo
 
 # Go To Public folder
 cd public
+
+# Pull changes from published site
+git pull
 
 # Add changes to git.
 git add .

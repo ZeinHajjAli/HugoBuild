@@ -9,6 +9,9 @@ hugo
 :: Go to public folder
 cd public
 
+:: Pull changes from published site
+git pull
+
 :: Add changes to git
 git add .
 
