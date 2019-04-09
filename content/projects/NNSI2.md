@@ -4,7 +4,7 @@ title: 'NNSI #2: Final Update & Conclusion'
 
 date: 2019-04-08T21:45:09.395Z
 
-draft: true
+draft: false
 
 featuredImg: ""
 
