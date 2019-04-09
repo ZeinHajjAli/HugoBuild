@@ -44,7 +44,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # gitUrl = "https://github.com/username/repository/commit/"
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = false  # Set "text-align: justify" to .content.
+  justifyContent = true  # Set "text-align: justify" to .content.
 
   # Add custom css
   # customCSS = ["css/foo.css", "css/bar.css"]
