@@ -19,6 +19,6 @@ You can **contact me** using any of the following:
 
 ---
 
-You can find my résumé/CV as a download [**here**](https://github.com/ZeinHajjAli/ZeinHajjAli.github.io/raw/master/media/resume/ZeinHajjAli-Resume.pdf)
+You can download my résumé/CV here: [**Word file**](https://github.com/ZeinHajjAli/ZeinHajjAli.github.io/raw/master/media/resume/ZeinHajjAli-Resume.docx) or [**pdf**](https://github.com/ZeinHajjAli/ZeinHajjAli.github.io/raw/master/media/resume/ZeinHajjAli-Resume.pdf)
 
 </DIV>
