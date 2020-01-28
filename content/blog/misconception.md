@@ -1,7 +1,7 @@
 ---
 title: 'Misconception'
 date: 2018-05-09
-draft: false
+draft: true
 featuredImg: ""
 tags: 
   - writing

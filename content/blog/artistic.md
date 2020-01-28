@@ -1,7 +1,7 @@
 ---
 title: 'I am Not Artistic'
 date: 2015-10-26
-draft: false
+draft: true
 featuredImg: ""
 tags: 
   - writing

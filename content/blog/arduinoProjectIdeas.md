@@ -1,7 +1,7 @@
 ---
 title: "Arduino Project Ideas"
 date: 2019-02-04
-draft: false
+draft: true
 featuredImg: ""
 tags: 
   - Arduino

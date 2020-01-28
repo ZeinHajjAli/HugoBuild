@@ -1,7 +1,7 @@
 ---
 title: "The Hundred-Page Machine Learning Book by Andriy Burkov"
 date: 2019-07-28
-draft: false
+draft: true
 featuredImg: ""
 tags: 
   - Machine Learning

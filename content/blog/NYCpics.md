@@ -1,7 +1,7 @@
 ---
 title: 'Only the Best From NYC'
 date: 2017-03-03
-draft: false
+draft: true
 featuredImg: "/media/NYCpics/NYC4.jpg"
 tags: 
   - photos
